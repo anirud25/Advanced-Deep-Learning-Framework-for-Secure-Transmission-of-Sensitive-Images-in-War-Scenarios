@@ -65,7 +65,7 @@ For detailed results, see the `docs/` folder.
 ---
 
 # Folder Structure  
-```bash  
+ 
 secure-image-transmission/  
 ├── data/                 # Sample datasets and images  
 ├── models/               # Pre-trained model weights and architectures  
