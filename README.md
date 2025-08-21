@@ -77,14 +77,19 @@ secure-image-transmission/
 
 # Contributors  
 - **Deheem U Deyar** (Primary Author, deheembhat9@gmail.com)  
-- **Anirud Ramani**  
+- **Anirud Ramani**  (Primary Author, anirud25@gmail.com)
 - **Dr. Suja P**  
 
 ---
 
-# Citation  
-If you use this project, please cite our work:  
+# Copyright and Usage Notice
+© [2024], [Deheem U Deyar, Anirud Ramani]. All rights reserved.
 
+This repository contains original work created as part of an academic project at [Amrita Vishwa Vidyapeetham, Bengaluru]. The project report, presentation slides, source code, and all associated documents (including the IEEE-style paper) are protected under copyright law.
+
+No part of this repository may be copied, modified, distributed, or published (in whole or in part) without explicit written permission from the original authors. Unauthorized use, including but not limited to re-publication under a different name or affiliation, is strictly prohibited and may lead to legal or disciplinary action.
+
+This repository is shared for academic review and learning purposes only. 
 
 ---
 
@@ -93,4 +98,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-If you have further questions, feel free to contact **Deheem U Deyar** at **deheembhat9@gmail.com**.  
+If you have further questions, feel free to contact the authors **Deheem U Deyar** at **deheembhat9@gmail.com**, **Anirud Ramani**  at **anirud25@gmail.com**.  
