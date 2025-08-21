@@ -93,9 +93,4 @@ This repository is shared for academic review and learning purposes only.
 
 ---
 
-# License  
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-
----
-
 If you have further questions, feel free to contact the authors **Deheem U Deyar** at **deheembhat9@gmail.com**, **Anirud Ramani**  at **anirud25@gmail.com**.  
