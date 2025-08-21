@@ -43,16 +43,6 @@ Ensure you have the following installed on your system:
 - pip (Python package manager)  
 - A GPU with CUDA support (optional but recommended for training models)  
 
-### Installation  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/yourusername/secure-image-transmission.git  
-   cd secure-image-transmission  
-pip install -r requirements.txt  
-python encode.py --input <path_to_image> --output <output_encoded_file>  
-python decode.py --input <encoded_file> --output <decoded_image_path>  
-python validate.py --original <path_to_original_image> --decoded <path_to_decoded_image>  
-
 # Experimental Results  
 The framework has been tested extensively, and results indicate:  
 
@@ -60,20 +50,7 @@ The framework has been tested extensively, and results indicate:
 - **Robust Transmission**: Effective even in scenarios with potential data corruption.  
 - **Validation Metrics**: Structural Similarity Index (SSIM) and Mean Squared Error (MSE) confirm data quality preservation.  
 
-For detailed results, see the `docs/` folder.  
-
 ---
-
-# Folder Structure  
- 
-secure-image-transmission/  
-├── data/                 # Sample datasets and images  
-├── models/               # Pre-trained model weights and architectures  
-├── src/                  # Source code for encoding, decoding, and validation  
-├── docs/                 # Project report and presentation  
-├── results/              # Experimental results and analysis  
-├── requirements.txt      # Dependencies  
-└── README.md             # Project documentation  
 
 # Contributors  
 - **Deheem U Deyar** (Primary Author, deheembhat9@gmail.com)  
